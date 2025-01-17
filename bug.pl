@@ -1,0 +1,1 @@
+my @array = (1, 2, 3);my $element = $array[3]; # Accessing an element outside the array bounds
